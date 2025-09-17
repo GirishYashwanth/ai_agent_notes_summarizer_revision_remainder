@@ -1,8 +1,6 @@
 # AI Agent Prototype - Fine-tuning FLAN-T5 with LoRA
-## 📌Details
-Name: BHUMIREDDI GIRISH YASWANTH
-         University: INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR
-        Department: MECHANICAL ENGINEERING
+## Name: BHUMIREDDI GIRISH YASWANTH University: INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR Department: MECHANICAL ENGINEERING
+
    
 
 ## 📌 Project Overview
